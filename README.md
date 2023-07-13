@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Varun Ram S</h1>
+<h1 align="center">Hello there 👋, I'm Varun Ram S</h1>
 <h3 align="center">A passionate Data Science and Electronics Enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Design of Pressure Sensor using Cadence**
+- 🔭 I’m currently working on **The Design of Pressure Sensor using Cadence**
 
 - 🌱 I’m currently learning **HTML, CSS, Flask**
 
 - 👨‍💻 All of my projects are available at [https://github.com/varunram2001](https://github.com/varunram2001)
 
-- 📫 How to reach me **varunram2001@gmail.com**
+- 📫 You can reach to me at **varunram2001@gmail.com**
 
-- ⚡ Fun fact **I'm multilingual XD**
+- ⚡ Fun fact about me: **I'm multilingual XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
