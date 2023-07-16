@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **The Design of Pressure Sensor using Cadence**
 
-- 🌱 I’m currently learning **HTML, CSS, Flask**
+- 🌱 I’m currently learning **HTML, CSS, Flask, IntelliSuite**
 
 - 👨‍💻 All of my projects are available at [https://github.com/varunram2001](https://github.com/varunram2001)
 
