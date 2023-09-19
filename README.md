@@ -11,7 +11,7 @@
 
 - 📫 You can reach to me at **varunram2001@gmail.com**
 
-- ⚡ Fun fact about me: **I'm multilingual XD**
+- ⚡ Fun fact about me: **I'm multilingual XD** - Can speak English, Tamil, Hindi, Kannada, Malayalam. Learning Telegu and German. 
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
