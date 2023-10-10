@@ -5,7 +5,7 @@
 
 - 🧑‍🔬 I'm also working on **The Design of Pressure Sensor using Cadence** for my Academic Capstone project. 
 
-- 🌱 I’m currently learning **HTML, CSS, Flask, IntelliSuite**
+- 🌱 I’m currently learning **HTML, CSS, Flask, JS,  IntelliSuite**
 
 - 👨‍💻 All of my projects are available at [https://github.com/varunram2001](https://github.com/varunram2001)
 
