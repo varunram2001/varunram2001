@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Varun Ram S</h1>
 <h3 align="center">A passionate Data Science and Electronics Enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Web Development and ML Projects**
+- 🔭 I’m currently working on **VLSI Design and ML Projects**
 
 - 🧑‍🔬 I'm also working on **The Design of a Piezoressitve Pressure Sensor** for my Academic Capstone project. 
 
