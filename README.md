@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Web Development and ML Projects**
 
-- 🧑‍🔬 I'm also working on **The Design of Pressure Sensor using Cadence** for my Academic Capstone project. 
+- 🧑‍🔬 I'm also working on **The Design of a Piezoressitve Pressure Sensor** for my Academic Capstone project. 
 
-- 🌱 I’m currently learning **HTML, CSS, Flask, JS,  IntelliSuite**
+- 🌱 I’m currently learning **IntelliSuite**
 
 - 👨‍💻 All of my projects are available at [https://github.com/varunram2001](https://github.com/varunram2001)
 
