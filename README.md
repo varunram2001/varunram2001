@@ -5,7 +5,7 @@
 
 - 🧑‍🔬 I'm also working on **The Design of a MEMS Piezoressitve Pressure Sensor** for my Academic Capstone project. 
 
-- 🌱 I’m currently learning **IntelliSuite**
+- 🌱 I’m currently learning **IntelliSuite: IntelliSense**
 
 - 👨‍💻 All of my projects are available at [https://github.com/varunram2001](https://github.com/varunram2001)
 
