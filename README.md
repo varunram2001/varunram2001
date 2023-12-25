@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/varunram2001](https://github.com/varunram2001)
 
-- 📫 You can reach to me at **varunram2001@gmail.com**
+- 📫 You can reach to me at **varunram2001@gmail.com** or **varun.ram2020@vitbhopal.ac.in**
 
 - ⚡ Fun fact about me: **I'm multilingual XD** - Can speak English, Tamil, Hindi, Kannada, Malayalam. Learning Telegu and German. 
 
