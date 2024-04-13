@@ -1,4 +1,4 @@
-<h1 align="center">Hello there  👋, I'm Varun Ram</h1>
+<h1 align="center">Hello there  👋, I'm Varun R</h1>
 <h3 align="center">A passionate Data Science and Electronics Enthusiast from India</h3>
 
 - 🔭 I’m currently working on **Machine Learning based Projects**
