@@ -1,5 +1,5 @@
 <h1 align="center">Heyyyy there  👋, I'm Varun S</h1>
-<h3 align="center">A passionate Data Science and Electronics Enthusiast from India,</h3>
+<h3 align="center">A passionate Data Science and VLSI Enthusiast from India,</h3>
 
 - 🔭 I’m currently a **QA Intern** at a leading Product based Company which provides software solutions for Electronic/Electrical Design. 
 
