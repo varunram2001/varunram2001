@@ -1,7 +1,7 @@
 <h1 align="center">Heyyyy there  👋, I'm Varun S</h1>
 <h3 align="center">A passionate Data Science and VLSI Enthusiast from India,</h3>
 
-- 🔭 I’m working as a **QA Intern** at a leading Product based Company which provides software solutions for Electronic/Electrical Design. 
+- 🔭 I’m working as a **QA Intern** at a leading Product based Company which provides software solutions for Electronic/Electrical- Harness Design. 
 
 - 🧑‍🔬 I'm also working on **The Design of a MEMS Piezoressitve Pressure Sensor** for my Academic Capstone project. 
 
