@@ -1,11 +1,11 @@
-<h1 align="center">Heyyyy there  👋, I'm Varun S</h1>
+<h1 align="center">Heyyyy there  👋, I'm Varun Ram S</h1>
 <h3 align="center">A passionate Data Science and VLSI Design Enthusiast from India,</h3>
 
 - 🔭 I’m working as a **QA Intern** at a leading Product based Company which provides software solutions for Electronic/Electrical- Harness Design. 
 
-- 🧑‍🔬 I'm also working on **The Design of a MEMS Piezoressitve Pressure Sensor** for my Academic Capstone project. 
+- 🧑‍🔬 I have worked on **The Design of a MEMS Piezoressitve Pressure Sensor** for my Academic Capstone project. 
 
-- 🌱 I’m currently learning **IntelliSuite: IntelliSense + Blueprint**
+- 🌱 I’m currently learning **VueJS, Redis, Celery and JWT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/varunram2001](https://github.com/varunram2001)
 
