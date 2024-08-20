@@ -5,7 +5,7 @@
 
 - 🧑‍🔬 I have worked on **The Design of a MEMS Piezoressitve Pressure Sensor** for my Academic Capstone project. 
 
-- 🌱 I’m currently learning **VueJS, Redis, Celery and JWT**
+- 🌱 I’m currently learning **VueJS, Redis, Celery,JWT; I have also worked on a project upon these**
 
 - 👨‍💻 All of my projects are available at [https://github.com/varunram2001](https://github.com/varunram2001)
 
