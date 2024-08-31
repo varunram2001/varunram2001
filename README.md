@@ -3,7 +3,7 @@
 
 - 🔭 I’m working as a **QA Intern** at a leading Product based Company which provides software solutions for Electronic/Electrical- Harness Design. 
 
-- 🧑‍🔬 I have worked on **The Design of a MEMS Piezoressitve Pressure Sensor** for my Academic Capstone project. 
+- 🧑‍🔬 I have worked on **The Design of a MEMS Piezoressitve Pressure Sensor** for my B.Tech Academic Capstone project. 
 
 - 🌱 I’m currently learning **VueJS, Redis, Celery,JWT; I have also worked on a project upon these**
 
