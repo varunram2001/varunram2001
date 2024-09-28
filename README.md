@@ -1,9 +1,11 @@
 <h1 align="center">Heyyyy there  👋, I'm Varun Ram S</h1>
 <h3 align="center">A passionate Data Science and VLSI Enthusiast from India</h3>
 
-- 🔭 I’m working as a **QA Engineer** at a leading Product based Company which provides software solutions for Harness and Wiring Design. 
+- 🔭 I’m working as a **QA Engineer** at a leading Product based Company which provides software solutions for Harness and Wiring Design.
 
-- 🧑‍🔬 I have worked on **The Design of a MEMS Piezoressitve Pressure Sensor** for my B.Tech Academic Capstone project. 
+- 🎓 I'm also pursuing my B.S in Data Science and Applications from IIT Madras in Distance Mode,  finished 2 diplomas (84 credits) and currently in Degree level.
+
+- 🧑‍🔬 I have worked on **The Design of a MEMS Piezoressitve Pressure Sensor** for my B.Tech Academic Capstone project at VIT Bhopal. 
 
 - 🌱 I’m currently learning **VueJS, Redis, Celery,JWT; I have also worked on a project upon these**
 
