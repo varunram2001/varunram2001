@@ -7,7 +7,7 @@
 
 - 🧑‍🔬 I have worked on **The Design of a MEMS Piezoressitve Pressure Sensor** for my B.Tech Academic Capstone project at VIT Bhopal. 
 
-- 🌱 I’m currently learning **VueJS, Redis, Celery,JWT; I have also worked on a project upon these**
+- 🌱 I’m currently learning **DevOps and MLOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/varunram2001](https://github.com/varunram2001)
 
