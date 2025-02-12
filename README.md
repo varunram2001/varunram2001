@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Varun Ram S</h1>
 <h3 align="center">A passionate AIML & VLSI Enthusiast from India </h3>
 
-- 🔭 I’m working as a **QA Engineer** at a leading Product based Company which provides software solutions for Harness and Wiring Design.
+- 🔭 I’m working as a **QA Engineer** at a leading Product based Company which provides software solutions for Harness & Wiring Design.
 
 - 🎓 I'm also pursuing my B.S in Data Science and Applications from IIT Madras in Distance Mode,  finished 2 diplomas (84 credits + 16 credits) and currently in Degree level.
 
