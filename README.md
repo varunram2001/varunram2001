@@ -13,7 +13,7 @@
 
 - 📫 You can reach to me at **varunram2001@gmail.com** or **varun.ram2020@vitbhopal.ac.in**
 
-- ⚡ Fun fact about me: **I'm multilingual XD** - Can speak English, Tamil, Hindi, Kannada & Malayalam. Learning Telugu and German. 
+- ⚡ Fun fact about me: **I'm multilingual XD** - Can speak English, Tamil, Hindi, Kannada & Malayalam. Learning Telugu and German.  
 
 <h3 align="left">Connect with me here:</h3>
 <p align="left">
