@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Varun Ram S </h1> 
-<h3 align="center">A passionate AIML & VLSI Design Enthusiast from India  </h3>
+<h3 align="center">A passionate AIML & VLSI Design Enthusiast from India </h3>
 
 - 🔭 I’m working as a **QA Engineer** at a leading Product based Prg which provides software solutions for Harness &  Wiring Design.
 
