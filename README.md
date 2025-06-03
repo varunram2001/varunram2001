@@ -5,7 +5,7 @@
 
 - 🎓 I'm also pursuing my B.S in Data Science & Applications from IIT Madras in Distance Mode,  finished 2 diplomas & BSc degree (125 credits) and currently in BS level (17 credits pending).
 
-- 🧑‍🔬 I have worked on **The Design of a MEMS Piezoressitve Pressure Sensor** for my B.Tech Academic Capstone project at VIT Bhopal   
+- 🧑‍🔬 I have worked on **The Design of a MEMS Piezoressitve Pressure Sensor** for my B.Tech Academic Capstone project at VIT Bhopal    
 
 - 🌱 I’m currently  learning **DevOps and MLOps**
 
