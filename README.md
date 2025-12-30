@@ -3,7 +3,7 @@
 
 - 🔭 I’m working as a **QA Engineer** at a leading Product based Org which provides software solutions for Harness &  Wiring Design.
 
-- 🎓 I'm also pursuing my B.S in Data Science & Applications from IIT Madras in Distance Mode,  finished 2 diplomas & BSc degree (125 credits) and currently in BS level (17 credits pending).
+- 🎓 I have also completed 2 UG Degrees - BTech in ECE (Specialization in AI and Cybernetics) from VIT Bhopal and BS in Data Science and Applications from IIT Madras B.S Degree Program.
 
 - 🧑‍🔬 I have worked on **The Design of a MEMS Piezoressitve Pressure Sensor** for my B.Tech Academic Capstone project at VIT Bhopal    
 
