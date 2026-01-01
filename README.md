@@ -1,7 +1,7 @@
 <h1 align="center">Hey there👋, I'm Varun Ram S </h1>  
 <h3 align="center">A passionate AI & Robotics Enthusiast from India  </h3>
 
-- 🔭 I’m working as a **QA Engineer** at a leading Product based Org which provides software solutions for Harness &  Wiring Design.
+- 🔭 I’m working as a **QA Engineer** at a leading Product based Organization which provides software solutions for Harness &  Wiring Design.
 
 - 🎓 I have also completed 2 UG Degrees - BTech in ECE (Specialization in AI and Cybernetics) from VIT Bhopal and BS in Data Science and Applications from IIT Madras B.S Degree Program.
 
